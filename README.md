@@ -27,12 +27,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying **[Your Degree/Branch]** — *replace with your course*
-- 🔭 Currently working on **[Project Name]**
-- 🌱 Currently learning **[Skill/Framework]**
-- 💬 Ask me about **[Topics you're comfortable with]**
-- 📫 Reach me at **YOUR-EMAIL@example.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🎓 Currently studying BTech CSE 3rd Yr
+- 🔭 Currently working on ...
+- 🌱 Currently learning Kotlin 
+- 💬 Ask me about c++ 
+- 📫 Reach me at supratimgogoi9191@gmail.com
+- ⚡ Fun fact: I play game too much that motivate me to work to built a game of my own.
 
 ---
 
