@@ -7,7 +7,7 @@
 <!-- ===================== ANIMATED TYPING NAME/TAGLINE ===================== -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there%2C+I'm+Supratim+Gogoi+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;I+build+things+with+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=130&lines=Hi+there%2C+I'm+Supratim+Gogoi+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;I+build+things+with+code." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -72,16 +72,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SupratimX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupratimX&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SupratimX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupratimX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SupratimX&theme=tokyonight&hide_border=true" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SupratimX&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SupratimX&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SupratimX&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
@@ -101,43 +112,14 @@
 
 ## 🚀 Projects
 
-|    | Project                                                                                    | Description                                                                                                                 | Tech Stack                       |
-| -- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 🔹 | **[Computer Network Internship](https://github.com/SupratimX/ComputerNetwork-Internship)** | Internship work and learning resources focused on computer networking and related concepts.                                 | `Computer Networks`              |
-| 🔹 | **[AI Content Recommender](https://github.com/SupratimX/ai-content-recommender)**          | AI-based content recommendation project designed to recommend relevant content using intelligent recommendation techniques. | `Python` `AI` `Machine Learning` |
-| 🔹 | **[Music Popularity Project](https://github.com/SupratimX/music-popularity-project)**      | Machine learning project focused on analysing and predicting music popularity using data-driven techniques.                 | `Python` `Machine Learning`      |
-| 🔹 | **[MuMu OS](https://github.com/SupratimX/mumu-os)**                                        | A personal operating-system/software project exploring system-level development and software concepts.                      | `HTML` `JavaScript` `CSS`        |
-| 🔹 | **[Eternal Archive](https://github.com/SupratimX/eternal-archive)** 🔒                     | Private personal repository for preserving and organizing personal projects, resources and memories.                        | `Private`                        |
-| 🔹 | **[GitHub Profile](https://github.com/SupratimX/SupratimX)**                               | This profile repository — the source of this GitHub profile README and its animations.                                      | `Markdown` `GitHub`              |
-
-<div align="center">
-
-### 📌 Featured Repositories
-
-<a href="https://github.com/SupratimX/ai-content-recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupratimX&repo=ai-content-recommender&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SupratimX/music-popularity-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupratimX&repo=music-popularity-project&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SupratimX&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SupratimX&show_icons=true&count_private=true&hide=stars,contribs&theme=tokyonight" />
-</div>
+|    | Project                                                                                    | Description                                                                                                                | Tech Stack                       |
+| -- | ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 🔹 | **[Computer Network Internship](https://github.com/SupratimX/ComputerNetwork-Internship)** | Internship project and work related to computer networking, concepts, practical implementation and learning.               | `Computer Networks`              |
+| 🔹 | **[AI Content Recommender](https://github.com/SupratimX/ai-content-recommender)**          | AI-based content recommendation system designed to recommend relevant content using intelligent recommendation techniques. | `Python` `AI` `Machine Learning` |
+| 🔹 | **[Music Popularity Project](https://github.com/SupratimX/music-popularity-project)**      | Machine learning project focused on analysing music data and predicting music popularity.                                  | `Python` `Machine Learning`      |
+| 🔹 | **[MuMu OS](https://github.com/SupratimX/mumu-os)**                                        | Personal operating-system/software project exploring system-level development and software concepts.                       | `HTML` `CSS` `JavaScript`        |
+| 🔹 | **[Eternal Archive](https://github.com/SupratimX/eternal-archive)** 🔒                     | Private personal repository for preserving and organizing personal projects, resources and memories.                       | `Private`                        |
+| 🔹 | **[SupratimX Profile](https://github.com/SupratimX/SupratimX)**                            | The repository powering this GitHub profile README, animations and profile customization.                                  | `Markdown` `GitHub`              |
 
 ---
 
@@ -152,6 +134,7 @@
 ---
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=120&section=footer"/>
 
 **Thanks for stopping by! ⭐ Star some repos if you like what you see.**
