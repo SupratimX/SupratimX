@@ -1,24 +1,38 @@
+# Supratim Gogoi — GitHub Profile README
+
 <div align="center">
 
 <!-- ===================== ANIMATED WAVE HEADER ===================== -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Supratim%20Gogoi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- ===================== ANIMATED TYPING NAME/TAGLINE ===================== -->
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+there%2C+I'm+Supratim+Gogoi+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%9A%80;I+build+things+with+code." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ===================== SOCIAL BADGES (EDIT LINKS BELOW) ===================== -->
+<!-- ===================== SOCIAL BADGES ===================== -->
+
 <p>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/YOUR-TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/supratim-gogoi-867009330">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:supratimgogoi9191@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/__gogoidaa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/14m3njVEuDb/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 <!-- Profile view counter -->
+
 <img src="https://komarev.com/ghpvc/?username=SupratimX&label=Profile%20Views&color=06b6d4&style=flat" alt="profile views" />
 
 </div>
@@ -27,12 +41,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently studying BTech CSE 3rd Yr
-- 🔭 Currently working on ...
-- 🌱 Currently learning Kotlin 
-- 💬 Ask me about c++ 
-- 📫 Reach me at supratimgogoi9191@gmail.com
-- ⚡ Fun fact: I play game too much that motivate me to work to built a game of my own.
+* 🎓 Currently studying BTech CSE — 3rd Year
+* 🔭 Currently working on AI, software development and personal projects
+* 🌱 Currently learning Kotlin
+* 💬 Ask me about C++
+* 📫 Reach me at **[supratimgogoi9191@gmail.com](mailto:supratimgogoi9191@gmail.com)**
+* ⚡ Fun fact: I play games way too much — which motivates me to build a game of my own someday.
 
 ---
 
@@ -40,7 +54,6 @@
 
 <div align="center">
 
-<!-- Edit this list to match your actual stack -->
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,git,github,vscode,linux,figma&theme=dark" />
 
 </div>
@@ -48,10 +61,11 @@
 <div align="center">
 
 ![](https://img.shields.io/badge/-Languages-06B6D4?style=for-the-badge)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 </div>
 
@@ -79,6 +93,7 @@
 <div align="center">
 
 <!-- This renders once you set up the GitHub Action described in SETUP_INSTRUCTIONS.md -->
+
 <img src="https://raw.githubusercontent.com/SupratimX/SupratimX/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake animation" />
 <img src="https://raw.githubusercontent.com/SupratimX/SupratimX/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake animation" />
 
@@ -88,31 +103,27 @@
 
 ## 🚀 Projects
 
-<!-- 
-  EDIT THIS TABLE — add/remove rows for each project.
-  Format: | Icon | Project Name (link) | Description | Tech Used |
--->
-
-| | Project | Description | Tech Stack |
-|---|---|---|---|
-| 🔹 | **[Project One](https://github.com/SupratimX/project-one)** | One-line description of what it does and the problem it solves. | `React` `Node.js` `MongoDB` |
-| 🔹 | **[Project Two](https://github.com/SupratimX/project-two)** | One-line description of what it does and the problem it solves. | `Python` `Flask` `SQL` |
-| 🔹 | **[Project Three](https://github.com/SupratimX/project-three)** | One-line description of what it does and the problem it solves. | `C++` `DSA` |
+|    | Project                                                                                    | Description                                                                                                                 | Tech Stack                       |
+| -- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 🔹 | **[Computer Network Internship](https://github.com/SupratimX/ComputerNetwork-Internship)** | Internship work and learning resources focused on computer networking and related concepts.                                 | `Computer Networks`              |
+| 🔹 | **[AI Content Recommender](https://github.com/SupratimX/ai-content-recommender)**          | AI-based content recommendation project designed to recommend relevant content using intelligent recommendation techniques. | `Python` `AI` `Machine Learning` |
+| 🔹 | **[Music Popularity Project](https://github.com/SupratimX/music-popularity-project)**      | Machine learning project focused on analysing and predicting music popularity using data-driven techniques.                 | `Python` `Machine Learning`      |
+| 🔹 | **[MuMu OS](https://github.com/SupratimX/mumu-os)**                                        | A personal operating-system/software project exploring system-level development and software concepts.                      | `HTML` `JavaScript` `CSS`        |
+| 🔹 | **[Eternal Archive](https://github.com/SupratimX/eternal-archive)** 🔒                     | Private personal repository for preserving and organizing personal projects, resources and memories.                        | `Private`                        |
+| 🔹 | **[GitHub Profile](https://github.com/SupratimX/SupratimX)**                               | This profile repository — the source of this GitHub profile README and its animations.                                      | `Markdown` `GitHub`              |
 
 <div align="center">
 
-### 📌 Pinned Repos (auto-updating cards)
+### 📌 Featured Repositories
 
-<a href="https://github.com/SupratimX/project-one">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupratimX&repo=project-one&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SupratimX/ai-content-recommender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupratimX&repo=ai-content-recommender&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/SupratimX/project-two">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupratimX&repo=project-two&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/SupratimX/music-popularity-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SupratimX&repo=music-popularity-project&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-> 💡 Replace `project-one`, `project-two`, `project-three` with your actual repository names — these cards pull live data automatically once the repo names match.
 
 ---
 
@@ -136,7 +147,7 @@
 
 ### 💬 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </div>
 
